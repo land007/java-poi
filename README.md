@@ -12,9 +12,13 @@
 
 ![img](image/微信图片_20200410124819.png)
 
-下载地址
+软件下载地址
 
 https://github.com/land007/java-poi/releases/download/v1.2/WORD.V1.2.zip
+
+测试用WORD下载地址
+
+https://github.com/land007/java-poi/raw/master/test/%E6%8A%80%E6%9C%AF%E6%96%87%E4%BB%B6.docx
 
 使用方法
 
