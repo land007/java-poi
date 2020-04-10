@@ -1,8 +1,8 @@
 # java-poi
 
-**自动刷文档程序说明**
+**自动刷格式程序说明**
 
-自动刷Word文档格式程序使用Java为基础语言，使用开源组件poi对Office Word文档结构进行解析，对格式不正确的内容予以纠正，实现效果如下：
+自动格式化Word文档格式程序使用Java为基础语言，使用开源组件poi对Office Word文档结构进行解析，对格式不正确的内容予以纠正，实现效果如下：
 
  ![img](image/微信图片_20200410124809.png)![img](image/微信图片_20200410124814.png)
 
@@ -12,6 +12,9 @@
 
 ![img](image/微信图片_20200410124819.png)
 
+下载地址
+
+https://github.com/land007/java-poi/releases/download/v1.2/WORD.V1.2.zip
 
 使用方法
 
