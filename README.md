@@ -4,7 +4,7 @@
 
 自动格式化Word文档格式程序使用Java为基础语言，使用开源组件poi对Office Word文档结构进行解析，对格式不正确的内容予以纠正，实现效果如下：
 
- ![img](image/微信图片_20200410124809.png)![img](image/微信图片_20200410124814.png)
+ ![img](https://raw.githubusercontent.com/land007/docker_java-poi/master/image/微信图片_20200410124809.png)![img](https://raw.githubusercontent.com/land007/docker_java-poi/master/image/微信图片_20200410124814.png)
 
 **目前提供了两种方式方便大家使用**
 
@@ -40,7 +40,7 @@ docker run -it --restart=always -v c:/Users/jiayq/docker/data:/data -p 20022:22 
 
 打开测试docker服务器地址http://127.0.0.1:3000
 
-![img](image/微信图片_20200410124825.png)
+![img](https://raw.githubusercontent.com/land007/docker_java-poi/master/image/微信图片_20200410124825.png)
 
 使用方法
 
